@@ -11,7 +11,8 @@ use Illuminate\Database\Eloquent\ModelNotFoundException;
 use Exception;
 
 /*
-    Controlador para endpoints da API de produtos
+    Controlador para endpoints da API de produtos.
+    Teste
 */
 class ProdutoController extends Controller
 {
